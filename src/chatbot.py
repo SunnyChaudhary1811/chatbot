@@ -12,7 +12,7 @@ import re
 load_dotenv()
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+os.environ["LANGCHAIN_API_KEY"] = "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"
 
 # Define the prompt template for extracting information
 prompt = ChatPromptTemplate.from_messages(
