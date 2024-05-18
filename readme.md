@@ -74,3 +74,9 @@ Streamlit is used to create the interactive web app.
 The script handles relative dates and converts them to absolute formats.
 The context is stored in the session state to keep track of previous queries and extracted information.
 I hope this README provides a clear understanding of the code and its functionality. 
+
+-----------------------------------------------------------------------------------------------------------------
+
+Streamlit application URL 
+
+http://192.168.84.33:8501/ 
