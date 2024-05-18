@@ -53,7 +53,17 @@ RESULTS:
 ![alt text](image-1.png)
 
 ------------------------------------------------------------------------------------------------------------------
+Deployment:
 
+Deployed this application on Streamlit cloud platform. which provides single click deployment.
+
+------------------------------------------------------------------------------------------------------------------
+
+Model performance:
+
+As i am using locally installed llama2 opensource model it provides sometimes inaccurate results. and due to my system specifications it takes 1-2 minutes to process the query and provides output
+
+--------------------------------------------------------------------------------------------------------------------
 
 Additional Notes:
 
